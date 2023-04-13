@@ -2,4 +2,6 @@
 
 h1{background-color: blue;}
 
-.header{background-color: antiquewhite;}
+.header{background-color: antiquewhite; width: 300px; height: 300px;}
+
+p{color: red; }
